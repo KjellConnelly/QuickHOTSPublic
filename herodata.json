@@ -1,0 +1,707 @@
+[
+  {
+    "name": "Samuro",
+    "phases": [
+      {
+        "title": "Pre-Battle",
+        "strategies": [
+          {
+            "title": "Pick Skill",
+            "description": "1v1 Laning? Way of Illusion if enemy will absorb damage. Windwalk if enemy can be chase poked with windwalk.",
+            "actions": [
+              {
+                "title": "Way of Illusion",
+                "description": "If you can stack this in a timely manner, it's a good pick as it'll make your burst a lot better.",
+                "buttons": [
+                  "ctrl+1"
+                ]
+              },
+              {
+                "title": "Way of the Wind",
+                "description": "If you doubt you'll be able to poke without the speed, get this.",
+                "buttons": [
+                  "ctrl+3"
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Send Images ASAP",
+            "description": "Sending your images in first thing is nice because it'll do 2 things: Enemies may waste a bit of mana/health, and you may get a few stacks for Way of Illusion if you picked it. Mirror Image will be off cooldown soon after enemies meet clones anyways.",
+            "actions": [
+              {
+                "title": "Prep Images/Mount",
+                "description": "Mount takes a few seconds of cooldown, so position yourself infront of the lane you want to go to and press Z to unmount preemptively. Images will go towards closest tower, so sometimes they will go center even if you position elsewhere. When countdown gets to 0, Mirror Image away from the gate so your images are walking side by side down the lane. Mount up right away and send your hero where you want.",
+                "buttons": [
+                  "shift+q",
+                  "shift+z",
+                  "shift+rc"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Laning 1v1 (Pre-10)",
+        "strategies": [
+          {
+            "title": "Charge Poke",
+            "description": "Good against enemies who can't trade well... skills on cooldown, poor sustain, slow. Make your clones so you hop towards the enemy, right click them, go invis (for speed and not being able to be auto-attacked).",
+            "actions": [
+              {
+                "title": "With Enemy Minion Wave",
+                "description": "Charging with the enemy's minion wave allows your clones to attack the minions while you charge the enemy hero. This is good because the enemy will usually run towards their towers while your clones stay far away. When you're about to receive damage, swap with one of the clones back by the minions by pressing D.",
+                "buttons": [
+                  "shift+q",
+                  "shift+rc",
+                  "shift+e",
+                  "d"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Laning (10+)",
+        "strategies": [
+          {
+            "title": "Focus All",
+            "description": "One of the basics tenants of level 10+ is controlling all images as soon as you press Q. This will reduce the chances of an enemy spotting the real Samuro. In many cases, if you press Q and start right clicking right away, enemies will see the real Samuro moving like a player and the other two like mirror images. Not only this, but you can focus attack enemies easier, or have 3 characters body-blocking a fleeing enemy.",
+            "actions": [
+              {
+                "title": "All Attack",
+                "description": "Remember that there is a slight delay after pressing Q before pressing 4 will select all images (as they won't actually appear for a moment, and thus are unselectable).",
+                "buttons": [
+                  "q",
+                  "4",
+                  "rc"
+                ]
+              },
+              {
+                "title": "All Mount",
+                "description": "You may also want to select everyone and mount them up. Just remember that you can't already be mounted, press Q, select them all, and expect them to mount up. There still is that 4s delay before remounting.",
+                "buttons": [
+                  "shift+q",
+                  "shift+4",
+                  "shift+z"
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Kawarimi Poke (13+)",
+            "description": "If you decide to get Kawarimi at 13, Wind Walk (E) will create a Mirror Image (remember, it caps at 2, so if you have 2 out already, one will vanish) that will continue what you are doing. Part of the Kawarimi Poke is that it conditions your enemies to ignore a charging stealth Samuro. That, or they waste time/skills on an image. Good for team fights, or 1v1. Your job is to Wind Walk, run at them, send the new image away, and swap back to that clone if it seems too dangerous. If not, you will slice them up.",
+            "actions": [
+              {
+                "title": "Condition the Enemy",
+                "description": "When you first get Kawarimi and start doing this poke, the enemy will probably attack or run from you when you charge. But once you swap with an image and they are attacked by a 13dps image, they will become conditioned to ignore. While conditioning them, you need to be ready to swap back, otherwise you might explode and/or make a bad trade. When practicing this action, hold off on pressing D until you're ready to swap into a safe position where your #2 was before.",
+                "buttons": [
+                  "rc",
+                  "e",
+                  "2",
+                  "rc",
+                  "d"
+                ]
+              },
+              {
+                "title": "Kill the Enemy",
+                "description": "Once an enemy is conditioned to ignore the charging stealthed Samuro, you can often times do some major burst damage, potentially killing them. You can always press '2, d' to swap back to a safe position. But for now, lets assume you're going to be diving and only swapping as a last resort. The only difference with this and 'Condition the Enemy' is that instead of getting ready to swap back by hovering over 'd', you take control of your Hero and do whatever is necessary to kill the enemy, only swapping once you get the kill, or find yourself in danger.",
+                "buttons": [
+                  "rc",
+                  "e",
+                  "2",
+                  "rc",
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Healing in Lane",
+                       "description":"This strategy gives Samuro almost unlimited sustain with only a 15-20 sec interval. It's almost like Zagara's Nydus Network where you go in, heal, and come back fully healed. Though this strategy is implemented in lane, it can be done anywhere you can be safe for the time it takes to recall. Do it after a wave, mid team-fight, after a boss, while moving to 2 different lanes. The point is that when your images recall, you can then swap with one, heal, and before their timer runs out, swap back to one of them. You have to pretty much recall as soon as you pop Q though unless you take 3 Blade Style @20, otherwise you won't have enough time to swap twice and may end up having to walk back. If you do this action properly, you won't need to look at the fountain at all, keeping your eyes in the lane. Note that queueing up commands doesn't always work as expected. After you press Q, if you press 2 too quickly, it may not select Image #2 if it doesn't already exist. Likewise, you may not swap with #2 as soon as #2 recalls. It seems to have something to do with having Samuro #1 already having a command issued. So if you afk during this time, the swap will usually happen instantly. But if you start fighting an opponent, it's less likely to happen. Though we don't know the exact parameters for this, know that you may have to manually swap (2, D).",
+            "actions":[
+              {
+                "title":"Heal from & to Lane (push)",
+                "description":"Often, you want to stay in the one lane you are in and heal, and at the same time push the lane. Q from behind the enemy minion wave, toward the wave. Your images will be in back. #2 will start recalling, and you will swap with him. It's also worth noting that if you issue a command that involves moving your character, and then swap back to the fountain, your hero will run out of the fountain and stop healing. For this reason, we press 's' once the swapped has happened. Note: There are 2 parts to this action. First all commands except the last 2. Hold shift to queue up commands for image #2 to recall, swap once recalled, and stop moving. Second, once you've healed and swap is off cooldown, and before Q cooldown is up, '2 d'. Once you've done all the shift commands, you can continue using your hero/#3 to push the lane. Once swapped to recall, mouse-click both images to continue the push. Finally, press 2+d when you are ready to swap back. If you were a bit slow and are worried about running out of time to swap back to lane, you can hold 'd'. It's the same as spamming 'd'. This way, you will swap back as soon as the time is up.",
+                "buttons":[
+                  "shift+q",
+                  "shift+2",
+                  "shift+b",
+                  "shift+d",
+                  "shift+s",
+                  "lc",
+                  "a",
+                  "2",
+                  "d"
+                ]
+              },
+              {
+                "title":"Heal from & to Lane (soak)",
+                "description":"This is the same as 'Heal from & to Lane (push)', except you keep away from enemies/minions instead of attacking. This may because you don't want to push the lane, or are afraid you or the images will die (if they die, you won't be able to swap back and you'll need to walk back to lane).",
+                "buttons":[
+                  "shift+q",
+                  "shift+2",
+                  "shift+b",
+                  "shift+1",
+                  "2",
+                  "d",
+                  "s",
+                  "2",
+                  "2",
+                  "d"
+                ]
+              },
+              {
+                "title":"Heal w/ Mounted Images",
+                "description":"If you want to heal, but at the same time move your images to another lane, a merc camp, position for a team fight, etc... You'll want to mount your characters while one image recalls. Scatter the 2 mounted Samuros (one real, one image). You can substitute 'rc' with 'a' in a real game if you want. But since you're healing, I would assume you and your images will be somewhat low on health and auto attacking would be a rare thing. Like with the other actions for 'Healing in Lane', this is broken up into 3 parts. Recalling, swapping to heal, and swapping back with wait time between. Make sure in a real game you do this and while practicing, practice waiting. The first section is all the shift commands. Next comes '2 d s 2'. And the rest is for the third section.",
+                "buttons":[
+                  "shift+q",
+                  "shift+2",
+                  "shift+b",
+                  "shift+1",
+                  "shift+z",
+                  "shift+rc",
+                  "shift+3",
+                  "shift+z",
+                  "shift+rc",
+                  "2",
+                  "d",
+                  "s",
+                  "2",
+                  "2",
+                  "d"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title":"Taking Merc Camps",
+        "strategies": [
+          {
+            "title":"Letting Images Tank",
+            "description":"The most obvious tactic is to let your images tank the mercs. Attack the camp, Q away, and attack. If your images die before Q is ready for use again, and the mercs have an attack that can be dodged, make sure to stutter step.",
+            "actions":[
+              {
+                "title":"Attack, Q Away",
+                "description":"Attack, Q away, Attack.",
+                "buttons":[
+                  "rc",
+                  "shift+q",
+                  "shift+a"
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Soloing the Boss",
+            "description":"Samuro can be a great boss killer if you're 10+ and realize that you CAN swap with images to heal them. Why swap with them? Because if you let the boss focus them, they'll both die before Q is up again, and you'll take damage, plus do slightly less damage yourself.",
+            "actions":[
+              {
+                "title":"Swap, Reposition",
+                "description":"When you swap with an image, the image that respawns will have the same health as you do. So your goal is to swap with the focused image when it is almost dead, move away, and bring back the image that just got swapped (and healed) to get focused again. If you're quick, you may not suffer even a single hit from the boss. If not, at least you'll minimize damage taken. Though the buttons you press may be slightly different, to maximize damage (stutter step and repositioning), these are the main buttons you will need to press. You will right-click to reposition, and press 'a' to auto attack once you're in the proper position to divert attention to your images.",
+                "buttons":[
+                  "shift+q",
+                  "shift+4",
+                  "shift+a",
+                  "2",
+                  "d",
+                  "rc",
+                  "a",
+                  "2",
+                  "rc",
+                  "a"
+                ]
+              }
+            ]
+          },
+          {
+            "title":"Swapping from Lane to Camp (10+)",
+            "description":"Once you've hit 10, you can send an Image to a camp and swap when Q is just about to be off cooldown. Sending your Image on a mount will be faster, so we'll use this. Also, keeping your hero in lane is important in this step since we are assuming you will be either killing minions, or at least soaking the lane. Preferably, time the swap once a way is cleared, your Q is almost up again, and the camp is about to respawn. This will reduce the soak loss, chances of an enemy taking your camp, and health loss. If Q isn't up by the time you swap, that is okay, especially if you can stutter step to dodge merc attacks.",
+            "actions":[
+              {
+                "title":"Send Mounted Image, Push, Swap",
+                "description":"In this scenerio, you will be pushing until right before you swap. Of course, timing of swap will differ based on your situation, and you will probably be controlling your hero for several seconds before swapping. First, get to the back of the wave and aim your Q at the minion closest to you. This will reduce the minion damage you receive and maximize push potential. Your images will appear behind you, so they should not receive any damage, and thus, be able to mount up. In the buttons you press, once you shift+1, the next step will be done once you are ready to swap.",
+                "buttons":[
+                  "shift+q",
+                  "shift+4",
+                  "shift+a",
+                  "shift+2",
+                  "shift+z",
+                  "shift+rc",
+                  "shift+1",
+                  "2",
+                  "d",
+                  "space",
+                  "rc"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Tower Diving (Pre-10)",
+        "strategies": [
+          {
+            "title": "As they 'safely' recall",
+            "description": "If you want to interrupt someone recalling behind the wall, and possibly get a kill, I suggest you Q away from the wall when you are standing next to it. This will send your 2 Images in, giving you vision, and possibly attacking the enemy. Towers will automatically attack all minions and images before you, so you'll have at least a bit of cover.",
+            "actions": [
+              {
+                "title": "To annoy",
+                "description": "Send in your images, and if you don't feel safe swapping in for whatever reason, at least it'll waste their time recalling if your images hit them.",
+                "buttons": [
+                  "q"
+                ]
+              },
+              {
+                "title": "To kill while pushing",
+                "description": "Send in your images. Since you want to keep pushing, you'll have your hero attack all that is close, such as other minions, towers, walls, etc. If the enemy is someone like abathur, are low on health, or aren't worried about a clone doing 20 dps, you can often just swap in and burst them down. If your minions haven't burst through the wall yet, you won't have much time once you swap before your other mirror image dies to the fort/keep and it starts focusing you. Depending on the map and enemy positioning, you may be able to avoid all fort/keep hits.",
+                "buttons": [
+                  "shift+q",
+                  "shift+a",
+                  "d"
+                ]
+              },
+              {
+                "title": "To kill cautiously",
+                "description": "Just like 'To kill while pushing', except you don't want to keep pushing their wall. This may be because you sense a gank, you have very minions left, or whatever else. Instead of sending your hero to attack what is close by, you'll send him to retreat right after sending images over the wall. When you are 10+, this strategy will be especially useful since you will be able to swap back to a retreated image if you do swap in soon after.",
+                "buttons": [
+                  "shift+q",
+                  "shift+rc",
+                  "d"
+                ]
+              }
+            ]
+          },
+          {
+            "title": "They will die in 1 hit",
+            "description": "Sometimes you just need to get in, know exactly where the enemy is right behind the wall, and can kill them in another hit or two. Just Q over the wall with your hero, aiming past the wall, attack the enemy and if not dead crit the enemy (W), and swap out. This can all be accomplished before the towers/forts/keeps hit you.",
+            "actions": [
+              {
+                "title": "Image, 1 Hit, Swap",
+                "description": "This is when they will die in a single hit.",
+                "buttons": [
+                  "q",
+                  "rc",
+                  "d"
+                ]
+              },
+              {
+                "title": "Image, Double Hit, Swap",
+                "description": "This is when you hit them once, then press W and hit them again quickly for a crit.",
+                "buttons": [
+                  "q",
+                  "rc",
+                  "w",
+                  "rc",
+                  "d"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Pushing All Lanes (10+)",
+        "strategies": [
+          {
+            "title": "Mounting Images to Lanes",
+            "description": "A lot of the time, you want 2-3 lanes of pressure. If it's a 3-lane map, and you're mid, you can send images to both other lanes and be ready to swap to the best one if needed. This not only creates confusion, but increases map pressure, and allows you to join a team fight if needed.",
+            "actions": [
+              {
+                "title": "Mount & Push",
+                "description": "In this situation, you want to push all lanes. You'll first send your hero to push the currently lane you are in, then make mirror images (Q your hero into minions, images safe from damage so they can mount), mount them, and send the mirror images to other lanes/places to attack. They may get caught on an enemy hero, or make it to lane to weakly attack minions. Both situations are good.",
+                "buttons": [
+                  "shift+a",
+                  "shift+q",
+                  "shift+2",
+                  "shift+z",
+                  "shift+a",
+                  "shift+3",
+                  "shift+z",
+                  "shift+a"
+                ]
+              },
+              {
+                "title": "Mount & Scatter",
+                "description": "In this situation, you don't want to push lanes. Just scatter your images towards far corners of the map. Make mirror images (Q so at least your images are safely able to mount), mount them, and send the mirror images to other lanes/places. They will not attack anyone they see, be instead head straight for their destination",
+                "buttons": [
+                  "shift+q",
+                  "shift+2",
+                  "shift+z",
+                  "shift+rc",
+                  "shift+3",
+                  "shift+z",
+                  "shift+rc"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Cheese",
+        "strategies": [
+          {
+            "title": "Fountain Cheese",
+            "description": "Fountain cheese is the art of taking out a fountain (and thus enemy sustain) from a place most players don’t expect. Mobile characters like Samuro and Genji can do this well. Though you put yourself at risk, it can really help your team. As Blizzard always changes map designs, the following strategies map not always work, but the principles remain the same. For this reason, try to make mental notes of fountains you can take out before the match begins. These are places you can safely attack the fountain without being attacked by a tower or other structure.",
+            "actions": [
+              {
+                "title": "Battlefield of Eternity (3/5)",
+                "description": "First, and easiest, is usually mid. Just Q over the gate and kill it. This will help you in team fights a LOT when fighting over objective. Both bottom fountains can be killed by jumping over the wall. The first one, go just past the fountain and find the thin wall (it's thicker just below it.). You will probably be hit by one tower shot. Position yourself below the fountain as far away from the tower/fort as possible. If you position correctly, you won't be hit again. To kill the second bottom fountain, you'll need to windwalk over to the gate, jump over, and position yourself again as far away from the tower/keep as possible. Top fountains aren't quite symmetrical, so you can't cheese them without being hit by towers.",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Blackheart's Bay (2 for 1, +3)",
+                "description": "Top and Mid are completely blocked off by gates, but if you Q over the wall, you can be safe in an area to potentially kill both top and mid fountains. It's a suicide mission, but well worth it if you can do it early in the game. You can also cheese all other fountains by WindWalking up to the wall/gate, and Qing over (except for the final bottom one). You'll just have to position properly, and may take a hit or two. But all 3 of these other fountains are an invitation to die since you won't be able to get out until you have talents up again.",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Braxis Holdout (1 Mid)",
+                "description": "Though this is a 2 lane map, there is a less useful fountain mid behind two towers and a gate. E all the way up to the gate and Q over it. Run to the opposite side of the fountain and kill it. By now your images should be dead (unless you're 10+ and moved one away), so recall from within their base.",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Cursed Hollow (1 Mid, 1 Top/Bot)",
+                "description": "Behind the first mid gate, there is a fountain. Depending on what side of the map you are on, you will either come from above or below. This one is super easy to kill and you don't need any skills to beat it. From here, bottom left, or top right you will go. There is another super easy one to kill. Just walk in from behind it and kill it. There are also a few other fountains that can be cheesed by windwalking to the wall and Qing over it.",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Dragon Shire (1 Mid, 1 Top)",
+                "description": "Behind the first mid gate, there is a fountain. Walk from above past their Bruiser Camp and kill it. Towers shouldn't hit you. Now go straight up from here and get another free Fountain.",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Garden of Terror (3)",
+                "description": "The mid and top/bottom are super easy to kill (depending on what side you have). Just walk up to it and kill it. No skills involved. The other top/bottom is more difficult as a fort will attack you. Head towards the fountain and as it's about to hit you, Q towards the fountain. Reposition yourself far away from the fort and kill it now. Your images will tank all the damage for the time it takes you to get to a safe spot. To escape, do the same thing with Q. If you need to escape before Q is off cooldown, you will be hit by the fort. Make sure to press E so the slow doesn't affect you.",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Hanamura (1 Bottom)",
+                "description": "If your team is on the left side of the map, there is a Fountain at the bottom right of the map behind the first gate that can be cheesed by pressing Q over the wall and attacking from below. If you're on the right side of the map, there is a fountain on the top left behind the first gate that is harder to get to, but can be done. You must have a minion wave pushing first, otherwise you won't be able to press D to get out. To do this, you must Q over the bottom wall and attack from below.",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Infernal Shrines (1 Bot)",
+                "description": "The bottom fountain is behind the first gate. You can walk from below to kill it without using and skills. Would suggest pressing Q so your images stay with a minion wave before you go in just in case. This allows you to swap out if someone comes for you. You can sometimes cheese before the first minion wave even hits.",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Tomb of the Spider Queen (3)",
+                "description": "Behind the first gate, top mid and bot, there are susceptible Fountains. All can be killed without suffering any damage if you position correctly. Bot is the most difficult. Attack from exactly above it, maybe slightly towards your side of the map.",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Volskaya Foundry (1 Mid)",
+                "description": "Mid, behind the first gate, there is a Fountain that can be killed by coming from below.",
+                "buttons": ["rc"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Lost Vikings",
+    "phases": [
+      {
+        "title": "Pre-Battle",
+        "strategies": [
+          {
+            "title": "Setup",
+            "description": "In 3 lane maps, send a viking to each lane in front of the gate. Also, tell your team to stick as a 4-man group. Most players don't know how to play optimally with the Lost Vikings on their team. It's your job to remind them when they start laning with a viking that is doing just fine on his own. So you may want to chat 'I'll soak 3 lanes, you guys stay as 4 and gank lanes.",
+            "actions": [
+              {
+                "title": "Spread Out",
+                "description": "Just select each Viking one at a time and right click them to their starting position. Preferably, keep Olaf (#1) with your team as he can help a bit in team fights. Since a lot of teams start with everyone mid, you may want to send Olaf mid too. Not necessary, but a suggestion.",
+                "buttons": [
+                  "1",
+                  "rc",
+                  "2",
+                  "rc",
+                  "3",
+                  "rc"
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Choose Talents",
+            "description": "Choosing your level 1 talent is usually based on the map and enemies.",
+            "actions": [
+              {
+                "title": "Spy Games",
+                "description": "This is a great skill when you're starting out as it'll let you focus more on controlling Olaf and Baleog. You can leave Erik in a lane and pretty much afk. As long as the other team doesn't have a character that has true sight being used often, this can be a great talent even for professionals. Of course, you can check enemy talents too. For example, if the enemy has a Chromie, check if she picks the skill that allows her vision or not at level 1 before picking. If she gets it, do not get Spy Games. Spy Games isn't just great for soaking, but also for settings up for objectives like Nukes or anything that needs to be channeled.",
+                "buttons": [
+                  "alt+2",
+                ]
+              }, {
+                "title": "Viking Bribery",
+                "description": "This is pretty much mandatory for any 3 lane map since you will be easily getting stacks. Then you can use it when enemies leave lanes to get massive push value. Of course, if you die a lot because you have poor control over 3 vikings, you will get less value from this skill. So while it's great if you use it properly, there are other better talents depending on the case.",
+                "buttons": [
+                  "alt+4",
+                ]
+              }, {
+                "title": "Explosive Attacks",
+                "description": "Some maps don't have 3 lanes, so Bribery isn't as good. But if you still want push value, this can be a great talent to get. Don't pick it if the enemy team has pushy assassins like genji to kill you everytime you push though. But it's really good if the enemy has poor pushing capabilities and you want to overrun them PVE.",
+                "buttons": [
+                  "alt+3",
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Laning",
+        "strategies": [
+          {
+            "title": "Pushing + Globes",
+            "description": "Often, especially during team fights, you will find no enemies in lane with you, and you'll be able to passively push. In order to minimize the amount of time you spend with each viking, you will be issuing a series of commands.",
+            "actions": [
+              {
+                "title": "Globe, Push, Hide",
+                "description": "This series of commands will send a Viking of your choice to kill the center minion wizard, take the globe, reposition to where your globe will drop (if enemy minions kill it), push the wave, and back off to a bush when done. Here is the step by step on where you need to position your mouse: (1) Enemy Center Minion Wizard (2) Next to Enemy Wizard, so you pick up globe (3) Your Center Minion Wizard (4) The furthest you want your viking to push the lane before retreating (5) The bush you want to hide in.",
+                "buttons": [
+                  "rc",
+                  "shift+rc",
+                  "shift+rc",
+                  "shift+a",
+                  "shift+rc",
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Multi-Spin (7+)",
+            "description": "Spin to Win damage is maximized when all of your vikings are positioned within a minion wave.",
+            "actions": [
+              {
+                "title": "Push 3 Lanes",
+                "description": "In the situation where you have 3 lanes that you can passively push, you will position each viking within the center of the minion wave (or where will get most damage), then spin to win. This action can be modified by only positioning 2 vikings, or even 1. Note that doing aoe to the frontline is safest, whereas the backline does the most damage and has the least hp. If you can control well, attacking the backline is preferable esp if you target them after spinning. Fewer of your minions will die, though you may take more damage.",
+                "buttons": [
+                  "shift+1",
+                  "shift+1",
+                  "shift+rc",
+                  "shift+2",
+                  "shift+2",
+                  "shift+rc",
+                  "shift+3",
+                  "shift+3",
+                  "shift+rc",
+                  "shift+q"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Merc Camps",
+        "strategies": [
+          {
+            "title": "Push During Objective",
+            "description": "A lot of objectives require both teams to fight over an area/areas. If you can bribe a camp right before/right after the objective contest begins, you will often have a partially or completely uncontested lane to push over. Pair this with Mercenary Lord at 7 and your mercs may do a lot of damage (if you keep an viking close to the mercs).",
+            "actions": [
+              {
+                "title": "Enemy Siege Camps",
+                "description": "Preferably, you will steal the enemy's siege camp. It will only require two stacks of bribe, plus keep them from taking it. It's also good to wait nearby if you have Mercenary Lord. Of course, if you can only take your camp, or a non-siege camp, this can still be useful. It's just less useful.",
+                "buttons": [
+                  "e",
+                  "e"
+                ]
+              },
+              {
+                "title": "Other Opportunities (7+)",
+                "description": "If you take Bribe @1 and Mercenary Lord @7, you may be tempted into thinking that you'll only benefit from Mercenary Lord when you bribe camps yourself. This is not true! Keep an eye open for opportunities to accompany a merc camp that your teammates took. Just keep your viking safe, soak the exp, and give those mercs +50% damage and +50 armor vs non-heroes.",
+                "buttons": [
+                  "rc"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Map Objectives",
+        "strategies": [
+          {
+            "title": "Optimization",
+            "description": "Optimizing your Strategy based on different maps can be very helpful. Yes, you could just soak/push lanes while objectives are going on. But this is not optimal in every map. For this reason, we're going to list a few strategies for dealing with different battlegrounds. Of course, as with all maps and all heroes, getting Merc Camps ahead of time can be great, so we'll forgo that as it is implied.",
+            "actions": [
+              {
+                "title": "Battlefield of Eternity",
+                "description": "",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Blackheart's Bay",
+                "description": "",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Braxis Holdout",
+                "description": "",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Cursed Hollow",
+                "description": "",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Dragon Shire",
+                "description": "",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Garden of Terror",
+                        "description": "Let your teammates know that you will take the terror when it's available. This lets you continue to soak 2 other lanes with your Vikings, control the terror, and have all 4 of your teammates participate in teamfights. This is a lot better than the alternative: 3 Vikings, 3 regular teammates, and 1 Terror. Make sure to steal camps just as you're grabbing the Terror too as all non-agro camps will vanish.\n\nAlso, make sure to use shift+commands to get the Terror. It'll save you time and let you focus on your other Vikings while it gets to lane. Press the buttons below to recall, walk to the Terror & channel it, walk to the lane you want, and use its Dash right away.",
+                "buttons": ["shift+b","shift+rc","shift+rc","shift+e"]
+              },
+              {
+                "title": "Hanamura",
+                "description": "",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Haunted Mines",
+                "description": "",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Infernal Shrines",
+                "description": "",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Sky Temple",
+                "description": "",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Tomb of the Spider Queen",
+                "description": "",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Towers of Doom",
+                "description": "",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Volskaya Foundry",
+                "description": "",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Warhead Junction",
+                "description": "",
+                "buttons": ["rc"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Erik's Sabotage",
+        "strategies": [
+          {
+            "title": "General Strategy",
+            "description": "Depending on the battleground you are in, Sabotage may be a viable level 4 talent to take. This can be improved by a level 1 Spy Games as well, though it's not necessary. What is the main purpose of Sabotage? It's partially to do sneaky damage to unguarded buildings. And it's partially to make enemies waste time chasing Erik. This can turn a 4v4 into a 4v3 temporarily while your other two vikings soak lanes. Yes, it is cheesy, but cheese is fun and viable in many lower rank games (and even some higher rank ones).",
+            "actions": [
+              {
+                "title": "Watch the Map",
+                "description": "A lot of heroes who do sneaky things like backdoor do so hoping to take a building down. As a Viking worth only 0.25x Exp, and doing very little damage (even with 'Its a Sabotage' @4), you need to have a different mentality. This is a game of playing the odds and capitolizing on opportunities. Not blowing up buildings. So watch the map. When you see someone coming for you, approximate how long it will take for them to get to you, and run away before they get there. You could wait in a bush, or even hide close by if you took Spy Games @1. Then when they are visibly far away, go back to Sabotage. Their team will be frustrated, even if it takes you several minutes to chip away the building. That's several minutes where you're soaking two other lanes and your team most likely has either a numbers advantage and/or an exp advantage.",
+                "buttons": [
+                  "rc"
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Map Strategy",
+            "description": "Time to go over which buildings and on which maps are the easiest targets. Just remember though: Blizzard is always changing things up, so what may work at the time of writing this may not work later. The main point is for you to see the opportunity to sabotage buildings. Though you may not need to take the level 4 talent to adopt this strategy, it can be quite helpful. Otherwise you may never cut down a building with just Erik.",
+            "actions": [
+              {
+                "title": "Battlefield of Eternity",
+                "description": "",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Blackheart's Bay",
+                "description": "",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Braxis Holdout",
+                "description": "",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Cursed Hollow",
+                "description": "",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Dragon Shire",
+                "description": "",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Garden of Terror",
+                "description": "",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Hanamura",
+                "description": "One of the great things about Vikings on Hanamura is how they can push a payload at max speed simply by bringing all vikings to one payload. This frees up the rest of your team to contest the other payload or do other things. If there is a payload active, always keep at least one viking on it if uncontested. Push lanes when they are being contested. Watch the minimap for ganks.",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Haunted Mines",
+                "description": "TLV aren't very good on this map. If you get Spy Games @1, Erik can be used as vision between lanes to prevent ganks and still soak both lanes with your other two vikings. In the mines, Vikings are pretty useless too. Though they can get skulls, they're so vulnerable to aoe in the mines.",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Infernal Shrines",
+                "description": "This is a great map to take merc camps during objective contests. Just take camps furthest away from the fight. Soak all lanes. Let you team know that they SHOULD draw the fighting out. You're able to soak 3 lanes. So either you get an exp advantage, or a numbers advantage. Don't let your teammates go 4v5. Have them wait until they send 1 or 2 of their heroes to defend lanes. Then have your team go ham.",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Sky Temple",
+                "description": "A viking can always be on an objective in this map if it's uncontested. So always make sure to bring a viking. If you pick Erik the Swift @4, you can hold shift and right click all around the capture point. This will issue him the command to run around a bunch (and thus healing). This will let him capture all the temple's shots without dying, and to run back to it if knocked off by the guardian's knockback. This allows you a few seconds to issue commands to other Vikings. Olaf can do the same thing, though he won't heal much. Pushing lanes is good on this map, but when the objective is up, try to keep a viking near each active temple for when it's uncontested.",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Tomb of the Spider Queen",
+                "description": "Though there are 3 lanes, the map is quite small making it difficult to micro all 3 vikings in each lane. Plus, they die easily, so you have a high likelihood of losing gems every step of the way.",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Towers of Doom",
+                "description": "Vikings excel at this map. Right-click towers, and shift-right click to a safe spot. This strategy is useful to quickly capture a tower and run away as soon as you get it. Unless you get stopped that is. You can also usually send a viking to annoy the enemy when towers spawn too. Like on the first spawn, there are 2 top, and 1 mid bottom. You can send a viking toward each tower. Possibly get the top left one. Interrupt the top right one. And hopefully your team will be able to get the bottom mid one. If you stall the top right one long enough, your team may be able to make their way up quick enough to contest that one. ",
+                "buttons": ["rc", "shift+rc"]
+              },
+              {
+                "title": "Volskaya Foundry",
+                "description": "As the objective spawns, you want to have one Viking either on the point, or close by. You can't really do much in team fights in most cases, so pushing lanes with 2 or 3 vikings is preferable if the enemy is contesting. Preferable position Olaf near the teamfights so he can help peel assassins off your squishies. Of course, if there is fighting going on elsewhere, send a viking to stand on the point. It seems like in almost every game I play, there is a point in time where no one is on the point at least once in the game. Spy Games @1 for Erik can be awesome for standing on the point without dying.",
+                "buttons": ["rc"]
+              },
+              {
+                "title": "Warhead Junction",
+                "description": "",
+                "buttons": ["rc"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
