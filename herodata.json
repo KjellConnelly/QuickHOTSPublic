@@ -1,6 +1,6 @@
 [
   {
-    "name": "Samuro",
+    "name": "SamuroWin",
     "phases": [
       {
         "title": "Pre-Battle",
@@ -495,6 +495,22 @@
                   "shift+3",
                   "shift+rc",
                   "shift+q"
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Jump Out of Stuns (13+)",
+            "description": "Sometimes one of your Vikings will be ganked by an enemy with a stun. If you took Jump at level 13, you will be able to dodge it by jumping before the stun hits. But if it hits you, and you have that Viking selected, you won't be able to jump until after the stun has worn off. Luckily, if you select a different Viking, you can unstun yourself instantly since Jump activates on all Vikings.",
+            "actions": [
+              {
+                "title": "Only Olaf Stunned",
+                "description": "Lets practice the situation where Olaf is stunned. The same concept can work for all Vikings, but lets work with Olaf for now. In this situation, you select Olaf and try to run away from the enemy. Olaf gets stunned while the other two Vikings are alive and well. So you select Baelog instead, activate Jump, switch back to Olaf, and continue running.",
+                "buttons": [
+                  "2",
+                  "w",
+                  "1",
+                  "rc"
                 ]
               }
             ]
