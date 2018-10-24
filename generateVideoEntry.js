@@ -31,9 +31,35 @@ function getVideoEntriesData() {
 }
 
 function addVideoEntryToVideoEntries(inputVideoEntries) {
-  const today  = new Date()
   let videoEntries = JSON.parse(JSON.stringify(inputVideoEntries))
-  videoEntries.push(newVideoEntry)
+  let newVideoEntryCopy = JSON.parse(JSON.stringify(newVideoEntry))
+  newVideoEntryCopy.date = new Date()
+
+  // check if already uploaded
+  let alreadyUploaded = false
+  videoEntries.forEach(entry=>{
+    if (entry.title == newVideoEntryCopy.title) {
+      alreadyUploaded = true
+    }
+  })
+
+  // check if not complete
+  let notComplete = false
+  for (const key in newVideoEntry) {
+    if (!newVideoEntry[key]) {
+      notComplete = true
+    }
+  }
+
+  if (alreadyUploaded || notComplete) {
+    console.log(alreadyUploaded ?
+      "Error! There is already a video entry with this title. Please fix! Exiting." :
+      "Error! Your entry is not complete. Please open generateVideoEntry.js and add all variables at top of file."
+    )
+    process.exit()
+  }
+
+  videoEntries.push(newVideoEntryCopy)
   return videoEntries
 }
 
@@ -42,6 +68,7 @@ function saveUpdateToFileSystem(modifiedVideoEntries) {
     if (err) {
       return console.log(err)
     }
+    console.log("File added")
   })
 }
 
