@@ -64,11 +64,11 @@ function addVideoEntryToVideoEntries(inputVideoEntries) {
 }
 
 function saveUpdateToFileSystem(modifiedVideoEntries) {
-  fs.writeFile("./videoEntriesData.json", JSON.stringify(modifiedVideoEntries), err=>{
+  fs.writeFile("./videoEntriesData.json", JSON.stringify(modifiedVideoEntries, null, 2), err=>{
     if (err) {
       return console.log(err)
     }
-    console.log("File added")
+    console.log("Video Entry successfully added!")
   })
 }
 
