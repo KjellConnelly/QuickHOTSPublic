@@ -32,7 +32,6 @@ function addCodeToCodes(inputCodes) {
 
   let codes = JSON.parse(JSON.stringify(inputCodes))
   const two = Math.random().toString(36).slice(-8)
-  const three =
   codes.push({
     one:email,
     two:two,
