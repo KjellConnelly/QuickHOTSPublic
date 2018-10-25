@@ -1,8 +1,8 @@
 //////////////////////////////////////
 // Variables to change:
 const newVideoEntry = {
-  title:"Dogs are cool",
-  youtubeCode:"696969",
+  title:"Elephants are cool",
+  youtubeCode:"",
   description:`Dogs are cool, but what do YOU know?`,
   md:`Boom boom man bam
   Yes bam mam
