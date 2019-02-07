@@ -1,7 +1,7 @@
 //////////////////////////////////////
 // Variables to change based on user:
-const email = "dog@dog.com"
-const daysUntilExpire = 2
+const email = "cindy_perez86@icloud.com"
+const daysUntilExpire = 3
 //////////////////////////////////////
 
 const https = require('https')
