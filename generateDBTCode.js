@@ -1,7 +1,17 @@
+/*
+Email Address: kjell@kjell.com
+Passcode:      gnrouaja
+
+Email Address: kjell@kjell.com
+Passcode:      g9z65nqc
+*/
+
 //////////////////////////////////////
 // Variables to change based on user:
-const email = "cindy_perez86@icloud.com"
+const email = "kjell@kjell.com"
 const daysUntilExpire = 3
+const appNumberToUnlock = 5
+// appNumber == 0 ? Diary : Quiz
 //////////////////////////////////////
 
 const https = require('https')
@@ -36,6 +46,7 @@ function addCodeToCodes(inputCodes) {
     one:email,
     two:two,
     three:newDate.getTime(),
+    four:appNumberToUnlock,
   })
   return codes
 }
@@ -48,15 +59,20 @@ function saveUpdateToFileSystem(codes) {
     const email = codes[codes.length - 1].one
     const passcode = codes[codes.length - 1].two
     const goodUntil = codes[codes.length - 1].three
+    const appNumber = codes[codes.length - 1].four
+
+    const appTitle = appNumber == 0 ? "A Simple DBT Skills Diary Card App" :
+      (appNumber == 5 ? "DBT Trivia & Quiz App" : "App")
+    const appShort = appNumber == 0 ? "Diary Card" : ""
 
     console.log("Successfully saved to codes.json!")
     console.log("Next Steps:")
     console.log("    1) git commit/push")
     console.log("    2) Send a message to the user with the following:")
     console.log("")
-    console.log("A Simple DBT Skills Diary Card App free upgrade has been generated for you! To unlock the full version of this app, grab your device (phone, tablet, etc) and complete the following steps:")
+    console.log(appTitle + " free upgrade has been generated for you! To unlock the full version of this app, grab your device (phone, tablet, etc) and complete the following steps:")
     console.log("-------------------------------------------------------------------")
-    console.log("a) Open the Diary Card app and tap the Menu button at the top left.")
+    console.log("a) Open the " + appShort + " app and tap the Menu button at the top left.")
     console.log("b) When the drawer opens up, tap the 'Share this app' button.")
     console.log("c) At the top right of the new screen, tap the ~ button.")
     console.log("d) When the new form appears, type in the following information:")
