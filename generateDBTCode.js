@@ -1,16 +1,13 @@
 /*
 Email Address: kjell@kjell.com
-Passcode:      gnrouaja
-
-Email Address: kjell@kjell.com
-Passcode:      g9z65nqc
+   Passcode:      ekkvfuba
 */
 
 //////////////////////////////////////
 // Variables to change based on user:
 const email = "kjell@kjell.com"
 const daysUntilExpire = 3
-const appNumberToUnlock = 5
+const appNumberToUnlock = 0
 // appNumber == 0 ? Diary : Quiz
 //////////////////////////////////////
 
