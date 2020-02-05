@@ -9,7 +9,7 @@ us17239q
 // Variables to change based on user:
 const email = "gwen.h.meharg@gmail.com"
 const daysUntilExpire = 28
-const appNumberToUnlock = 0
+const appNumberToUnlock = 5
 // appNumber == 0 ? Diary : Quiz
 //////////////////////////////////////
 
