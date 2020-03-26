@@ -1,0 +1,19 @@
+{
+  "jumpingjacks": {
+    "title": "Jumping Jacks",
+    "shortDescription": "30s • rest 45s",
+    "description": "If you are able to, do 30 seconds of jumping jacks. Common alternatives may include marching in place or doing a brisk walk. The point is to get your heart rate up and blood flowing through your body.",
+    "timer": 30,
+    "source": "https://picsum.photos/700",
+    "vid": 315521077,
+    "type": "video"
+  },
+  "pushups": {
+    "title": "Push-Ups",
+    "shortDescription": "15 reps • rest 45s",
+    "description": "If you are able to, do 15 Push-Ups. Common alternatives may include Knee Push-Ups or Inclined Push-Ups. Just make sure your heart starts beating a bit faster and you feel your muscle engorging to some degree.",
+    "source": "https://picsum.photos/700",
+    "vid": 315521077,
+    "type": "video"
+  }
+}
