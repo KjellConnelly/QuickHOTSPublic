@@ -1,6 +1,6 @@
 {
-  "updated": "2021-01-18T23:55:26.971Z",
+  "updated": "2021-01-19T00:09:54.714Z",
   "updatedSetSteps": "2020-03-26T19:16:28.446Z",
-  "enabled": true,
-  "piStatus": "Currently, our server is down. We expect it to be back up sometime within the next few days. It's a one-man job, so it might take longer than expected. Until this message goes away, your data won't be backed up to our server and some services may not work such as the Forum or Programs!"
+  "enabled": false,
+  "piStatus": ""
 }
