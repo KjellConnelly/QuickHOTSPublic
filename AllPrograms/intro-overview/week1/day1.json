@@ -1,25 +1,30 @@
 {
-  "title":"How our Programs Work",
-  "category":"Informational",
-  "md":"Today's lesson is more of a preview on how our Programs work and to get you familiar with how to navigate the interface.",
-  "public":true,
-  "source":"https://picsum.photos/700",
-  "sections":[{
-      "title":"Informative Videos",
-      "steps":[{
-        "title":"What are DBT Programs?",
-        "shortDescription":"5 minute video",
-        "md":"DBT Programs are a series of videos accompanied by short reading material done several times a week. Each program will focus on a limited number of topics in order to help you dive deep enough become more competent, but not so deep that you get lost.\n\nWe recognize that learning is best done in short organized bursts over longer periods of time. For this reason, we suggest you stick to the weekly schedule, and try to do no more than one lesson per day. Some weeks may have you doing 6 more compacted lessons, whereas others will be as little as 3. We know that life can get in the way of a routine, so feel free to pause and continue your lesson any time, day or night. All you need is an internet connection and a subscription.\n\nThe rest of the exercises in this Program are more informational, so feel free to skip them if you just want to learn DBT!",
-        "source":"https://picsum.photos/700",
-        "vid":315521077,
-        "type":"video"
-      }, {
-        "title":"How to Navigate Programs",
-        "shortDescription":"Step-by-step guide if you get stuck",
-        "md":"When you first open the Programs Section, you will see a bunch of programs you can choose from. The basic layout of a Program is as follows:\n\nProgram\n    -> Weeks in Program\n        -> Lessons in Week\n            -> Exercises in Lesson\n\nOnce you start a lesson, you will need to go through all of the exercises to complete the lesson. If the app exits (crash, phone call, run out of battery, etc), you will be asked to continue your progress the next time you open up the Programs section.\n\nOnce you finish all exercises, you now have the chance to save your entry. Currently, all posts are private, and all photos are only saved on your device (not uploaded to our server). What you add here is for your own use. You can leave these blank, or use them just as a way to check in with yourself.\n\nOnce you save, you will be brought back to the Programs first section. By tapping the icon at the top right of the screen, you can review your progress and purchased subscriptions anytime you want.",
-        "source":"https://picsum.photos/700",
-        "vid":315521077,
-        "type":"videoWithSubscriptionInfo"
-      }]
-  }]
+  "md": "Today's lesson is more of a preview on how our Programs work and to get you familiar with how to navigate the interface.",
+  "title": "How our Programs Work",
+  "category": "Informational",
+  "public": true,
+  "source": "https://picsum.photos/700",
+  "sections": [
+    {
+      "title": "Informative Videos",
+      "steps": [
+        {
+          "title": "What are DBT Programs?",
+          "shortDescription": "5 minute video",
+          "md": "**DBT Programs** are a series of *videos* accompanied by *short reading* material done *several times a week*. Each program will focus on a limited number of topics in order to help you dive deep enough become more competent, but not so deep that you get lost.\n\nWe recognize that learning is best done in short organized bursts over longer periods of time. For this reason, we suggest you *stick to the weekly schedule*, and try to do no more than one lesson per day. Some weeks may have you doing 6 more compacted lessons, whereas others will be as little as 3. We know that life can get in the way of a routine, so feel free to pause and continue your lesson any time, day or night. All you need is an internet connection and a subscription.\n\nThe rest of the exercises in this Program are more informational, so feel free to skip them if you just want to learn DBT!",
+          "source": "https://picsum.photos/700",
+          "vid": 315521077,
+          "type": "video"
+        },
+        {
+          "title": "How to Navigate Programs",
+          "shortDescription": "Step-by-step guide if you get stuck",
+          "md": "When you first open the **Programs Section**, you will see a bunch of programs you can choose from. The basic layout of a Program is as follows:\n\n##### Program\n- Weeks in Program\n- Lessons in Week\n- Exercises in Lesson\n\nOnce you start a lesson, you will need to go through all of the exercises to complete the lesson. If the app exits (crash, phone call, run out of battery, etc), you will be asked to continue your progress the next time you open up the Programs section.\n\nOnce you finish all exercises, you now have the chance to save your entry. Currently, all posts are private, and all photos are only saved on your device (not uploaded to our server). What you add here is for your own use. You can leave these blank, or use them just as a way to check in with yourself.\n\nOnce you save, you will be brought back to the Programs first section. By tapping the icon at the top right of the screen, you can review your progress and purchased subscriptions anytime you want.",
+          "source": "https://picsum.photos/700",
+          "vid": 315521077,
+          "type": "videoWithSubscriptionInfo"
+        }
+      ]
+    }
+  ]
 }

@@ -1,14 +1,18 @@
 {
-  "title":"Walking the dog",
-  "category":"Mindfulness",
-  "public":true,
-  "md":"Today we will be practicing observing multiple things using our five senses. The key to observing is noticing things without putting words to them (which is what we will do in tomorrow's lesson).",
-  "source":"https://picsum.photos/700",
-  "sections":[{
-      "title":"Physical Warm-up",
-      "sets":1,
-      "steps":[{
-        "SetStep":"jumpingjacks"
-      }]
-  }]
+  "md": "Today we will be practicing observing multiple things using our five senses. The key to observing is noticing things without putting words to them (which is what we will do in tomorrow's lesson).",
+  "title": "Walking the dog",
+  "category": "Mindfulness",
+  "public": true,
+  "source": "https://picsum.photos/700",
+  "sections": [
+    {
+      "title": "Physical Warm-up",
+      "sets": 1,
+      "steps": [
+        {
+          "SetStep": "jumpingjacks"
+        }
+      ]
+    }
+  ]
 }

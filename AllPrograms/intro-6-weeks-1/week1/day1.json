@@ -1,22 +1,31 @@
 {
-  "title":"Taking your mind out of the equation",
-  "category":"Mindfulness",
-  "public":true,
-  "md":"Today we will be practicing observing multiple things using our five senses. The key to observing is noticing things without putting words to them (which is what we will do in tomorrow's lesson).",
-  "source":"https://picsum.photos/800",
-  "sections":[{
-      "title":"Physical Warm-up",
-      "sets":2,
-      "steps":[{
-        "SetStep":"jumpingjacks"
-      }, {
-        "SetStep":"pushups"
-      }]
-    }, {
-      "title":"Observation",
-      "sets":1,
-      "steps":[{
-        "SetStep":"jumpingjacks"
-    }]
-  }]
+  "md": "Today we will be practicing observing multiple things using our five senses. The key to observing is noticing things without putting words to them (which is what we will do in tomorrow's lesson).",
+  "title": "Taking your mind out of the equation",
+  "category": "Mindfulness",
+  "public": true,
+  "source": "https://picsum.photos/800",
+  "sections": [
+    {
+      "title": "Physical Warm-up",
+      "sets": 2,
+      "steps": [
+        {
+          "SetStep": "jumpingjacks",
+          "timer": 45
+        },
+        {
+          "SetStep": "pushups"
+        }
+      ]
+    },
+    {
+      "title": "Observation",
+      "sets": 1,
+      "steps": [
+        {
+          "SetStep": "jumpingjacks"
+        }
+      ]
+    }
+  ]
 }

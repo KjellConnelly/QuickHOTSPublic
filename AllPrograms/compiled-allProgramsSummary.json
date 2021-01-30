@@ -1,20 +1,20 @@
 [
   {
+    "md": "Are you interested in a comprehensive guide to learning DBT, but don't want to go through a *$3,000-$7,000 class*, or bother with reading through Google Searches? Check out our first 5-minute video as an introduction to how our Programs work, what they cost, and how you can get the most out of them.",
     "title": "Introduction to DBT Programs",
     "difficulty": "Beginner",
     "category": "Informational",
     "id": "3214511",
     "source": "https://picsum.photos/700",
-    "md": "Are you interested in a comprehensive guide to learning DBT, but don't want to go through a *$3,000-$7000 class*, or bother with reading through Google Searches? Check out our first 5-minute video as an introduction to how our Programs work, what they cost, and how you can get the most out of them.",
     "weeks": [
       {
+        "md": "This **Program** only has 1 week, and 1 day in it. It is informational as to the structure of **DBT Programs**, but does not actually go into DBT Content. Skip this Program if you want to start learning DBT.",
         "title": "A quick guide on using Programs",
-        "md": "Check out this short video to see if our programs are right for you.",
         "days": [
           {
+            "md": "Today's lesson is more of a preview on how our Programs work and to get you familiar with how to navigate the interface.",
             "title": "How our Programs Work",
             "category": "Informational",
-            "md": "Today's lesson is more of a preview on how our Programs work and to get you familiar with how to navigate the interface.",
             "public": true,
             "source": "https://picsum.photos/700",
             "sections": [
@@ -24,7 +24,7 @@
                   {
                     "title": "What are DBT Programs?",
                     "shortDescription": "5 minute video",
-                    "md": "DBT Programs are a series of videos accompanied by short reading material done several times a week. Each program will focus on a limited number of topics in order to help you dive deep enough become more competent, but not so deep that you get lost.\n\nWe recognize that learning is best done in short organized bursts over longer periods of time. For this reason, we suggest you stick to the weekly schedule, and try to do no more than one lesson per day. Some weeks may have you doing 6 more compacted lessons, whereas others will be as little as 3. We know that life can get in the way of a routine, so feel free to pause and continue your lesson any time, day or night. All you need is an internet connection and a subscription.\n\nThe rest of the exercises in this Program are more informational, so feel free to skip them if you just want to learn DBT!",
+                    "md": "**DBT Programs** are a series of *videos* accompanied by *short reading* material done *several times a week*. Each program will focus on a limited number of topics in order to help you dive deep enough become more competent, but not so deep that you get lost.\n\nWe recognize that learning is best done in short organized bursts over longer periods of time. For this reason, we suggest you *stick to the weekly schedule*, and try to do no more than one lesson per day. Some weeks may have you doing 6 more compacted lessons, whereas others will be as little as 3. We know that life can get in the way of a routine, so feel free to pause and continue your lesson any time, day or night. All you need is an internet connection and a subscription.\n\nThe rest of the exercises in this Program are more informational, so feel free to skip them if you just want to learn DBT!",
                     "source": "https://picsum.photos/700",
                     "vid": 315521077,
                     "type": "video"
@@ -32,7 +32,7 @@
                   {
                     "title": "How to Navigate Programs",
                     "shortDescription": "Step-by-step guide if you get stuck",
-                    "md": "When you first open the Programs Section, you will see a bunch of programs you can choose from. The basic layout of a Program is as follows:\n\nProgram\n    -> Weeks in Program\n        -> Lessons in Week\n            -> Exercises in Lesson\n\nOnce you start a lesson, you will need to go through all of the exercises to complete the lesson. If the app exits (crash, phone call, run out of battery, etc), you will be asked to continue your progress the next time you open up the Programs section.\n\nOnce you finish all exercises, you now have the chance to save your entry. Currently, all posts are private, and all photos are only saved on your device (not uploaded to our server). What you add here is for your own use. You can leave these blank, or use them just as a way to check in with yourself.\n\nOnce you save, you will be brought back to the Programs first section. By tapping the icon at the top right of the screen, you can review your progress and purchased subscriptions anytime you want.",
+                    "md": "When you first open the **Programs Section**, you will see a bunch of programs you can choose from. The basic layout of a Program is as follows:\n\n##### Program\n- Weeks in Program\n- Lessons in Week\n- Exercises in Lesson\n\nOnce you start a lesson, you will need to go through all of the exercises to complete the lesson. If the app exits (crash, phone call, run out of battery, etc), you will be asked to continue your progress the next time you open up the Programs section.\n\nOnce you finish all exercises, you now have the chance to save your entry. Currently, all posts are private, and all photos are only saved on your device (not uploaded to our server). What you add here is for your own use. You can leave these blank, or use them just as a way to check in with yourself.\n\nOnce you save, you will be brought back to the Programs first section. By tapping the icon at the top right of the screen, you can review your progress and purchased subscriptions anytime you want.",
                     "source": "https://picsum.photos/700",
                     "vid": 315521077,
                     "type": "videoWithSubscriptionInfo"
@@ -46,22 +46,22 @@
     ]
   },
   {
+    "md": "If this is your very first time doing **DBT**, or you are just fairly new to it, here is a good place to start. Do all of the *6-Week Intro Programs* before you move onto the next ones, as each 6-week program will go over [Mindfulness](Popups/mindfulness) and one other category of skills.\n\n#### Program Goals:\n- The first two weeks will focus on becoming more *self-aware* and *mindful* of yourself.\n- The next four weeks, we will work on *Communication Skills* which involve being more effective in our interactions with others.",
     "title": "6-Week Intro Program 1",
     "difficulty": "Beginner",
     "category": "Mindfulness, Communication",
     "id": "3214512",
     "source": "./white-mountain.jpg",
-    "md": "If this is your very first time doing **DBT**, or you are just fairly new to it, here is a good place to start. Do all of the *6-Week Intro Programs* before you move onto the next ones, as each 6-week program will go over Mindfulness and one other category of skills.\n\nIn this program, the first two weeks will focus on becoming more *self-aware* and *mindful* of yourself. The next four weeks, we will work on *Communication Skills* which involve being more effective in our interactions with others.",
     "weeks": [
       {
+        "md": "One the the common problems we all have is judging before we have enough information. For this reason, our first two skills to learn in **DBT** are *Observe* and *Describe*.\n\n#### Weekly Goals:\n- Practice 2 **Mindfulness** skills\n\t- *Observe*\n\t- *Describe*\n- Increasing your current capacity for mindfulness via exercise.",
         "title": "Observing and Describing",
-        "md": "One the the common problems we **all** have is judging something with not enough information. Our first two skills to learn in DBT are *Observe and Describe*. This week, we will learn to become more mindful which will help us ready up for the upcoming weeks.",
         "days": [
           {
+            "md": "Today we will be practicing observing multiple things using our five senses. The key to observing is noticing things without putting words to them (which is what we will do in tomorrow's lesson).",
             "title": "Taking your mind out of the equation",
             "category": "Mindfulness",
             "public": true,
-            "md": "Today we will be practicing observing multiple things using our five senses. The key to observing is noticing things without putting words to them (which is what we will do in tomorrow's lesson).",
             "source": "https://picsum.photos/800",
             "sections": [
               {
@@ -69,7 +69,8 @@
                 "sets": 2,
                 "steps": [
                   {
-                    "SetStep": "jumpingjacks"
+                    "SetStep": "jumpingjacks",
+                    "timer": 45
                   },
                   {
                     "SetStep": "pushups"
@@ -88,10 +89,10 @@
             ]
           },
           {
+            "md": "Today we will be practicing observing multiple things using our five senses. The key to observing is noticing things without putting words to them (which is what we will do in tomorrow's lesson).",
             "title": "Walking the dog",
             "category": "Mindfulness",
             "public": true,
-            "md": "Today we will be practicing observing multiple things using our five senses. The key to observing is noticing things without putting words to them (which is what we will do in tomorrow's lesson).",
             "source": "https://picsum.photos/700",
             "sections": [
               {
@@ -106,9 +107,9 @@
             ]
           },
           {
-            "title": "Walking the dog and More",
-            "category": "Mindfulness",
             "md": "Today we will be practicing observing multiple things using our five senses. The key to observing is noticing things without putting words to them (which is what we will do in tomorrow's lesson).",
+            "title": "Walking the dog",
+            "category": "Mindfulness",
             "source": "https://picsum.photos/700",
             "sections": [
               {
@@ -125,13 +126,13 @@
         ]
       },
       {
+        "md": "Participation is good.",
         "title": "Participating",
-        "md": "Participating is good.",
         "days": [
           {
+            "md": "Today we will be practicing observing multiple things using our five senses. The key to observing is noticing things without putting words to them (which is what we will do in tomorrow's lesson).",
             "title": "Taking your mind out of the equation",
             "category": "Mindfulness",
-            "md": "Today we will be practicing observing multiple things using our five senses. The key to observing is noticing things without putting words to them (which is what we will do in tomorrow's lesson).",
             "source": "https://picsum.photos/700",
             "sections": [
               {
@@ -146,9 +147,9 @@
             ]
           },
           {
+            "md": "Today we will be practicing observing multiple things using our five senses. The key to observing is noticing things without putting words to them (which is what we will do in tomorrow's lesson).",
             "title": "Taking your mind out of the equation",
             "category": "Mindfulness",
-            "md": "Today we will be practicing observing multiple things using our five senses. The key to observing is noticing things without putting words to them (which is what we will do in tomorrow's lesson).",
             "source": "https://picsum.photos/700",
             "sections": [
               {
