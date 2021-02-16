@@ -3,7 +3,7 @@
   "title": "Taking your mind out of the equation",
   "category": "Mindfulness",
   "public": true,
-  "source": "https://picsum.photos/800",
+  "source": "https://picsum.photos/599",
   "sections": [
     {
       "title": "Physical Warm-up",
@@ -23,7 +23,22 @@
       "sets": 1,
       "steps": [
         {
-          "SetStep": "jumpingjacks"
+          "title": "Observing isn't verbal",
+          "shortDescription": "Learn what it is, and what it isn't",
+          "md": "No matter what you are doing consciously, your brain is executing, like a super computer, numerous programs on an ongoing loop. You are unaware of nearly all of what your brain is doing, and most of us live our lives as if our perceptions and interpretations accurately represent reality. Though professionals from all fields have tried to create accurate models of the human brain, there is no fully acceptable model that accounts for all of our intricacies. Nevertheless, we have created certain models that at the very least are *effective* in granting us more control over our circumstances in regard to the brain.\n\nOne of the common assumptions in DBT is that there is a difference between:\n1. The physical world\n2. Our **Observation** of the physical world\n3. Our interpretations of the Observation\n\nThe physical world of a baby may consist mainly of a few rooms, people, windows, etc. The baby does not notice most of this most of the time. They are only able to observe so much at a time. And then they are disturbed by hunger, or a loud noise, or a wave of drowsiness. And then when they wake up again, they are able to observe faces, sounds, etc.  Over time, their brain is able to add more and more to their mental model of the world, and eventually themselves.\n\nIn fact, for several months, there are very few interpretations being made. So much is new! Fast-forward to adulthood, and the same baby who looked at the world with wonder is spending nearly all of their day observing very little. The brain has automated nearly everything that happens each day. Everything is easy. Everything is known. Everything has a name. And why not? It's comfortable, and once we are efficient, we can be productive and accomplish our goals!\n\nSometimes it's not that simple. Sometimes we forget to observe. Sometimes, we think we know everything (or at least we know enough to not need to pay attention). And then we become complacent and miss the most obvious of things.\n\nEver notice how most animals are content? They don't get depressed or beat themselves up. All they need is some good food, water, warmth, exercise, and a friend to spend time with. They don't worry about the future. They don't dwell on the past. In some ways, this is the blessing, and the curse of mankind. You are like an animal because you are an animal. And you are more too. \n\nAnimals are content partially because they can observe without worrying beyond their immediate circumstances. You too will need to practice this skill: **Observe**.",
+          "script": "",
+          "source": "https://picsum.photos/700",
+          "vid": 315521077,
+          "type": "video"
+        },
+        {
+          "title": "Take a look around",
+          "shortDescription": "A short exercise",
+          "md": "Take a look around the room you're in. You might notice people, objects, lights, shadows, textures, or more. Try to *keep your mind on what your eyes can see*. Observe and become more aware of your surroundings. Notice if anything is moving, as subtle as that may be.\n\nTake a *deep* breath in. Notice how that makes your body feel.\n\nIf you catch yourself thinking or talking to yourself in your head, try to focus just on observing. Imagine yourself as a baby, one who doesn't have words or memories of what the objects in your field of vision are. Observe without putting words to what you see.\n\nSpend 2-5 minutes just observing without thought. And when you notice yourself thinking, or trying to interpret what you see, or becoming distracted, just slowly shift your attention back towards what you can observe with your eyes.",
+          "script": "",
+          "source": "https://picsum.photos/700",
+          "vid": 315521077,
+          "type": "video"
         }
       ]
     }
