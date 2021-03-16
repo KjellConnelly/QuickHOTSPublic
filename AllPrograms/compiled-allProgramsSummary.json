@@ -54,7 +54,7 @@
     "source": "./white-mountain.jpg",
     "weeks": [
       {
-        "md": "One the the common problems we all have is judging before we have enough information. For this reason, our first two skills to learn in **DBT** are *Observe* and *Describe*.\n\n#### Weekly Goals:\n- Practice 2 **Mindfulness** skills\n\t- *Observe*\n\t- *Describe*\n- Increasing your current capacity for mindfulness via exercise.",
+        "md": "One the the common problems we all have is judging before we have enough information. For this reason, our first two skills to learn in **DBT** are *Observe* and *Describe*.\n\n#### Weekly Goals:\n- Practice 2 **Mindfulness** skills\n\t- *Observe*\n\t- *Describe*\n- Increase your current capacity for mindfulness via exercise.",
         "title": "Observing and Describing",
         "days": [
           {
@@ -70,7 +70,7 @@
                 "steps": [
                   {
                     "SetStep": "jumpingjacks",
-                    "timer": 45
+                    "timer": 30
                   },
                   {
                     "SetStep": "pushups"
@@ -94,6 +94,15 @@
                     "title": "Take a look around",
                     "shortDescription": "A short exercise",
                     "md": "Take a look around the room you're in. You might notice people, objects, lights, shadows, textures, or more. Try to *keep your mind on what your eyes can see*. Observe and become more aware of your surroundings. Notice if anything is moving, as subtle as that may be.\n\nTake a *deep* breath in. Notice how that makes your body feel.\n\nIf you catch yourself thinking or talking to yourself in your head, try to focus just on observing. Imagine yourself as a baby, one who doesn't have words or memories of what the objects in your field of vision are. Observe without putting words to what you see.\n\nSpend 2-5 minutes just observing without thought. And when you notice yourself thinking, or trying to interpret what you see, or becoming distracted, just slowly shift your attention back towards what you can observe with your eyes.",
+                    "script": "",
+                    "source": "https://picsum.photos/700",
+                    "vid": 315521077,
+                    "type": "video"
+                  },
+                  {
+                    "title": "The Forgetting Curve",
+                    "shortDescription": "Prep for Review",
+                    "md": "Have you ever heard of the [Forgetting Curve](https://elearningindustry.com/forgetting-curve-combat)? Though it is a bit more complicated than this, the term was invented in the 1800's by German Psychologist *Hermann Ebbinghaus*. The relevant part for this program is the idea that we forget what we don't review. And the more we review over time, the more we retain for longer without reviewing.\n\n![Forgetting Curve](the-forgetting-curve.png)\n\nAfter a single day of not reviewing material, about 50% of the material is forgotten. And after a week, only about 10% is retained. To combat this, our DBT programs will not only go over new material, but sometimes repeat information you've already learned, along with daily reviews.\n\n![Combating the Forgetting Curve](combating-the-forgetting-curve.png)\n\nThere are numerous ways you can combat the forgetting curve such as reviewing material on your own, talking with friends about it, teaching others, or even rote memorization of terms. Though we can't force you to actively participate in your learning process, we have created **Review Exercises** to help you actively learn. There are basically two ways most people review material they want to remember:\n1. Recognition of material\n2. Remembering material\n\nRecognition may be doing things like passively watching videos about DBT skills, or reading articles by experts on the matter. In order to increase your retention of skills, **Review Exercises** were created with the intent of you remembering, and generating your own thoughts on material you have learned. At the end of each day's session, we will go over a few questions. Though it may be tempting to read over the questions and have an intuitive response to them, we ask that you formulate a response that would suffice for a short monologue.\n\n### Example:\n**Question:** What are 3 ways in which you personally could practice the skill Observe?\n**Temptation:** Look around. Breath. Notice smells.\n**Better Answer:** I notice that sometimes I get really worked up by my co-worker Samuel. When that happens, I don't really know what to do. Maybe I should practice Observe in this situation. I suppose I could first pay attention to my breathing. If I remember correctly, my breathing usually gets pretty shallow. So I could look for that. Next, I could pay attention to my posture. I think I hunch over too much when I am mad at him, and I avoid eye contact. But that makes me really uncomfortable, so I think I try to not pay attention to the fact that I am avoiding eye contact. I suppose that is me withdrawing, even from myself. And finally, I've noticed my jaw has been really tight lately. I could pay attention to this as well. I wonder if I am clenching my jaw, and if I am, if this is something I could relax and feel better after. Of course, I am practicing Observe, so I am not trying to change my behavior necessarily. For now, I just want to be more self away when it comes to getting worked up at work.\n\nFeel free to write your responses in a journal (or digital device), say them out loud, or have an internal monologue. Just make sure your responses are one that if someone else heard, they could follow along with. Good communication with others facilitates good communication with yourself, will lead to better outcomes, and will improve your retention of the material.",
                     "script": "",
                     "source": "https://picsum.photos/700",
                     "vid": 315521077,
